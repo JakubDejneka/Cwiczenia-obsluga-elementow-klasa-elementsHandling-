@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe5706db-d026-4e29-a84e-43d1339ec8d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/msedgedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstChromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoopsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/elementsHandlingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/elementsHandlingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/main_page.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/main_page.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/elementsHandlingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/elementsHandlingTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,52 +49,52 @@
       <recent name="D:\PROGRAMY\Intellij\Testelka_Automaty\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.elementsHandlingTest.iFrame">
-    <configuration name="FirstChromeTest.demoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestelkaSelenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstChromeTest" />
-      <option name="METHOD_NAME" value="demoTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZabawaZTabelamiTest.youtube" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TestelkaSelenium" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ZabawaZTabelamiTest" />
-      <option name="METHOD_NAME" value="youtube" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="elementsHandlingTest.alertConfirmationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.elementsHandlingTest.sortingTables">
+    <configuration name="elementsHandlingTest.jsExe2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestelkaSelenium" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="elementsHandlingTest" />
-      <option name="METHOD_NAME" value="alertConfirmationTest" />
+      <option name="METHOD_NAME" value="jsExe2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="elementsHandlingTest.alertsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="elementsHandlingTest.jsExe3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestelkaSelenium" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="elementsHandlingTest" />
-      <option name="METHOD_NAME" value="alertsTest" />
+      <option name="METHOD_NAME" value="jsExe3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="elementsHandlingTest.iFrame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="elementsHandlingTest.jsExecutor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TestelkaSelenium" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="elementsHandlingTest" />
-      <option name="METHOD_NAME" value="iFrame" />
+      <option name="METHOD_NAME" value="jsExecutor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="elementsHandlingTest.screenShootCapture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestelkaSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="elementsHandlingTest" />
+      <option name="METHOD_NAME" value="screenShootCapture" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="elementsHandlingTest.sortingTables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestelkaSelenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="elementsHandlingTest" />
+      <option name="METHOD_NAME" value="sortingTables" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.elementsHandlingTest.iFrame" />
-        <item itemvalue="JUnit.elementsHandlingTest.alertConfirmationTest" />
-        <item itemvalue="JUnit.elementsHandlingTest.alertsTest" />
-        <item itemvalue="JUnit.FirstChromeTest.demoTest" />
-        <item itemvalue="JUnit.ZabawaZTabelamiTest.youtube" />
+        <item itemvalue="JUnit.elementsHandlingTest.sortingTables" />
+        <item itemvalue="JUnit.elementsHandlingTest.screenShootCapture" />
+        <item itemvalue="JUnit.elementsHandlingTest.jsExe3" />
+        <item itemvalue="JUnit.elementsHandlingTest.jsExe2" />
+        <item itemvalue="JUnit.elementsHandlingTest.jsExecutor" />
       </list>
     </recent_temporary>
   </component>
@@ -147,38 +144,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1590714086644" />
-    <state width="1493" height="123" key="GridCell.Tab.0.bottom" timestamp="1591135608884">
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom" timestamp="1594079091778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="123" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591135608884" />
-    <state width="1493" height="123" key="GridCell.Tab.0.center" timestamp="1591135608884">
+    <state width="1493" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594079091778" />
+    <state width="1877" height="156" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593678553957" />
+    <state width="1493" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593294052429" />
+    <state width="1493" height="234" key="GridCell.Tab.0.center" timestamp="1594079091778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="123" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591135608884" />
-    <state width="1493" height="123" key="GridCell.Tab.0.left" timestamp="1591135608884">
+    <state width="1493" height="234" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594079091778" />
+    <state width="1877" height="156" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593678553957" />
+    <state width="1493" height="269" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593294052429" />
+    <state width="1493" height="234" key="GridCell.Tab.0.left" timestamp="1594079091778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="123" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591135608884" />
-    <state width="1493" height="123" key="GridCell.Tab.0.right" timestamp="1591135608884">
+    <state width="1493" height="234" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594079091778" />
+    <state width="1877" height="156" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593678553956" />
+    <state width="1493" height="269" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593294052429" />
+    <state width="1493" height="234" key="GridCell.Tab.0.right" timestamp="1594079091778">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="123" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591135608884" />
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1590958213497">
+    <state width="1493" height="234" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594079091778" />
+    <state width="1877" height="156" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593678553957" />
+    <state width="1493" height="269" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593294052429" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1591488179074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1590958213497" />
-    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1590958213496">
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591488179074" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1591488179074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1590958213496" />
-    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1590958213496">
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591488179074" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1591488179074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1590958213496" />
-    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1590958213497">
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591488179074" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1591488179074">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1590958213497" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1591488179074" />
     <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590859180071">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
